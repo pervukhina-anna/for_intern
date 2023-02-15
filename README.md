@@ -1,5 +1,23 @@
 # Задачки для стажера
 
+Для работы некоторых скриптов необходима установка дополнительных
+библиотек. Для установки необходимо активировать виртуальное окружение и
+установить зависимости:
+
+Mac:
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+Win:
+```
+python -m venv venv
+venv/Scripts/activate
+pip install -r requirements.txt
+```
+
 _**1. Какие шаги ты бы предпринял, если бы пользователь сказал, что API возвращает ему ошибку 500?**_
 
 [Решение](https://github.com/pervukhina-anna/for_intern/blob/main/first_quest.py)
