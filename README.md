@@ -18,11 +18,11 @@ venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-### _**1. Какие шаги ты бы предпринял, если бы пользователь сказал, что API возвращает ему ошибку 500?**_
+_**1. Какие шаги ты бы предпринял, если бы пользователь сказал, что API возвращает ему ошибку 500?**_
 
 [Решение](https://github.com/pervukhina-anna/for_intern/blob/main/first_quest.py)
 
-### _**2. Какие ты видишь проблемы в следующем фрагменте кода? Как его следует исправить?
+_**2. Какие ты видишь проблемы в следующем фрагменте кода? Как его следует исправить?
 Исправь ошибку и перепиши код ниже с использованием типизации.**_
 
 ``` python
@@ -42,18 +42,18 @@ def execute_handlers(handlers):
 
 [Решение](https://github.com/pervukhina-anna/for_intern/blob/main/second_quest.py)
 
-### _**3. Сколько HTML-тегов в коде главной страницы сайта greenatom.ru? Сколько из них
+_**3. Сколько HTML-тегов в коде главной страницы сайта greenatom.ru? Сколько из них
 содержит атрибуты? Напиши скрипт на Python, который выводит ответы на вопросы
 выше.**_
 
 [Решение](https://github.com/pervukhina-anna/for_intern/blob/main/third_quest.py)
 
-### _**4. Напиши функцию на Python, которая возвращает текущий публичный IP-адрес
+_**4. Напиши функцию на Python, которая возвращает текущий публичный IP-адрес
 компьютера (например, с использованием сервиса ifconfig.me).**_
 
 [Решение](https://github.com/pervukhina-anna/for_intern/blob/main/fourth_quest.py)
 
-### _**5. Напиши функцию на Python, выполняющую сравнение версий. Условия:**_
+_**5. Напиши функцию на Python, выполняющую сравнение версий. Условия:**_
 ```
 Return -1 if version A is older than version B
 Return 0 if version A and B are equivalent
